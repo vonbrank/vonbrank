@@ -4,6 +4,7 @@ using namespace std;
 
 int main()
 {
-    printf("hello github!!!\n");
+    printf("hello github!!!");
+    printf("hello github!!!");
     return 0;
 }
