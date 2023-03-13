@@ -16,10 +16,10 @@ I am a student from **Harbin Institute of Technology**, who likes:
 
 <div align="center">
 <div align="center">
-<img height="40" src="https://skillicons.dev/icons?i=c,cpp,cs,rust,java,kotlin">
+<img src="https://skillicons.dev/icons?i=c,cpp,cs,rust,java,kotlin">
 </div>
 <div align="center">
-<img height="40" src="https://skillicons.dev/icons?i=html,css,sass,js,ts">
+<img src="https://skillicons.dev/icons?i=html,css,sass,js,ts">
 </div>
 </div>
 
@@ -27,7 +27,7 @@ I am a student from **Harbin Institute of Technology**, who likes:
 
 <div align="center">
 <div align="center">
-<img height="40" src="https://skillicons.dev/icons?i=react,redux,materialui,vite,webpack">
+<img src="https://skillicons.dev/icons?i=react,redux,materialui,vite,webpack">
 </div>
 </div>
 
@@ -35,7 +35,7 @@ I am a student from **Harbin Institute of Technology**, who likes:
 
 <div align="center">
 <div align="center">
-<img height="40" src="https://skillicons.dev/icons?i=spring,mysql,docker,nginx">
+<img src="https://skillicons.dev/icons?i=spring,mysql,docker,nginx">
 </div>
 </div>
 
@@ -43,7 +43,7 @@ I am a student from **Harbin Institute of Technology**, who likes:
 
 <div align="center">
 <div align="center">
-<img height="40" src="https://skillicons.dev/icons?i=androidstudio,tauri">
+<img src="https://skillicons.dev/icons?i=androidstudio,tauri">
 </div>
 </div>
 
@@ -51,7 +51,7 @@ I am a student from **Harbin Institute of Technology**, who likes:
 
 <div align="center">
 <div align="center">
-<img height="40" src="https://skillicons.dev/icons?i=unity,unreal">
+<img src="https://skillicons.dev/icons?i=unity,unreal">
 </div>
 </div>
 
@@ -59,18 +59,18 @@ I am a student from **Harbin Institute of Technology**, who likes:
 
 <div align="center">
 <div align="center">
-<img height="40" src="https://skillicons.dev/icons?i=ae,pr,ps,figma">
+<img src="https://skillicons.dev/icons?i=ae,pr,ps,figma">
 </div>
 </div>
 
 <h2 align="center">Github Status</h2>
 
 <div align="center">
-    <img src="https://github-readme-stats.vercel.app/api?username=vonbrank&show_icons=true&theme=tokyonight" alt="Logo" style="max-width: 100%; object-fit: cover; width: 512px;">
+    <img src="https://github-readme-stats.vercel.app/api?username=vonbrank&show_icons=true&theme=tokyonight" alt="Logo" style="max-width: 100%; object-fit: cover; width: 480px;">
 </div>
 <div align="center">
-    <img src="https://github-readme-stats.vercel.app/api/wakatime?username=vonbrank&layout=compact&theme=tokyonight" alt="Logo" style="max-width: 100%; object-fit: cover; width: 512px;">
+    <img src="https://github-readme-stats.vercel.app/api/wakatime?username=vonbrank&layout=compact&theme=tokyonight" alt="Logo" style="max-width: 100%; object-fit: cover; width: 480px;">
 </div>
 <div align="center">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=vonbrank&layout=compact&exclude_repo=vonbrank.github.io&langs_count=8&theme=tokyonight" alt="Logo" style="max-width: 100%; object-fit: cover; width: 512px;">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=vonbrank&layout=compact&exclude_repo=vonbrank.github.io&langs_count=8&theme=tokyonight" alt="Logo" style="max-width: 100%; object-fit: cover; width: 480px;">
 </div>
