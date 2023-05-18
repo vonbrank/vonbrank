@@ -10,6 +10,8 @@ I am a student from **Harbin Institute of Technology**, who likes:
 
 [![Mail](https://img.shields.io/badge/Email-vonbrank@outlook.com-blue?style=flat&logo=mail.ru)](mailto:vonbrank@outlook.com)
 
+[![wakatime](https://wakatime.com/badge/user/4180b34c-d843-4580-942b-d2813456ba73.svg)](https://wakatime.com/@4180b34c-d843-4580-942b-d2813456ba73)
+
 <h2 align="center">Tech Stack</h2>
 
 ### Languages
@@ -69,7 +71,7 @@ I am a student from **Harbin Institute of Technology**, who likes:
     <img src="https://github-readme-stats.vercel.app/api?username=vonbrank&show_icons=true&theme=tokyonight" alt="Logo" style="max-width: 100%; object-fit: cover; width: 480px;">
 </div>
 <div align="center">
-    <img src="https://github-readme-stats.vercel.app/api/wakatime?username=vonbrank&layout=compact&theme=tokyonight" alt="Logo" style="max-width: 100%; object-fit: cover; width: 480px;">
+    <img src="https://github-readme-stats.vercel.app/api/wakatime?username=vonbrank&layout=compact&theme=tokyonight&range=last_7_days" alt="Logo" style="max-width: 100%; object-fit: cover; width: 480px;">
 </div>
 <div align="center">
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=vonbrank&layout=compact&exclude_repo=vonbrank.github.io&langs_count=8&theme=tokyonight" alt="Logo" style="max-width: 100%; object-fit: cover; width: 480px;">
