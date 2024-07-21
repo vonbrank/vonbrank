@@ -1,11 +1,13 @@
-## Hey Guys!!!
+## Hi there, I am Von Brank 👋
 
-I am a student from **Harbin Institute of Technology**, who likes:
+I obtained my B.Eng. from **Harbin Institute of Technology** 🎓, and now I am a video game developer at **Tencent** 🐧.
+
+I enjoy:
 
 + 📄 Coding
-+ 🎞️ Video Editing
-+ 🎨 Designing
 + 🎮 Gaming
++ 🎨 Designing
++ 🎞️ Video Editing
 + 💡 And More
 
 [![Mail](https://img.shields.io/badge/Email-vonbrank@outlook.com-blue?style=flat&logo=mail.ru)](mailto:vonbrank@outlook.com)
@@ -23,6 +25,9 @@ I am a student from **Harbin Institute of Technology**, who likes:
 <div align="center">
 <img src="https://skillicons.dev/icons?i=html,css,sass,js,ts">
 </div>
+<div align="center">
+<img src="https://skillicons.dev/icons?i=python,lua,md">
+</div>
 </div>
 
 ### Front-End
@@ -37,7 +42,10 @@ I am a student from **Harbin Institute of Technology**, who likes:
 
 <div align="center">
 <div align="center">
-<img src="https://skillicons.dev/icons?i=spring,mysql,docker,nginx">
+<img src="https://skillicons.dev/icons?i=nodejs,spring,express,docker,nginx">
+</div>
+<div align="center">
+<img src="https://skillicons.dev/icons?i=mysql,mongodb,sqlite">
 </div>
 </div>
 
